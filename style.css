@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7e9d7;
+    color: #5d4037;
+    text-align: center;
+}
+
+header {
+    background-color: #ffccbc;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #8d6e63;
+    text-decoration: none;
+}
+
+section {
+    margin: 50px;
+}
+
+form input, form textarea {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 80%;
+}
+
+button {
+    background-color: #ff8a65;
+    color: white;
+    border: none;
+    padding: 10px;
+}
